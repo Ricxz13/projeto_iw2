@@ -128,3 +128,100 @@ navbar ul li {
   max-width: 100%;
   height: auto;
 }
+
+.card-item a{
+  color: #000000;
+}
+
+.card-item a:hover{
+  color: #5457ff;
+}
+
+.containe {
+  display: flex;
+  align-items: center; 
+  justify-content: space-between;
+  gap: 20px;
+  background-color: #cfdaff;
+  border-radius: 15px;
+  margin-top: 25px;
+}
+
+.containe img{
+  height: 250px;
+  width: auto;
+  border-radius: 10px;
+  margin-right: 370px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.texto{
+  font-size: x-large;
+  margin-left: 350px;
+}
+
+.problema{
+  background-color: #cfdaff; 
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.problema p{
+  font-size: large;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.pontos{
+  font-size: large;
+  background-color: #cfdaff; 
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.problema{
+  background-color: #cfdaff; 
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.problema p{
+  font-size: large;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.pontos{
+  font-size: large;
+  background-color: #cfdaff; 
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.ongs{
+  display:flex;
+  justify-content: center;
+  background-color: #cfdaff;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.ongs img{
+  width: 250px;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  align-content: center;
+  align-items:center;
+}
+
+.info{
+  display: flex;
+  background-color: #cfdaff;
+  justify-content: center;
+  margin-top: 15px;
+  border-radius: 10px;
+}
